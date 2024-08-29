@@ -8,7 +8,7 @@ public class Main {
         System.out.println("getMessage()");
     }
 
-    private static StringGroovyMethods getMessage() {
+    private static String getMessage() {
         return msg;
     }
 }
